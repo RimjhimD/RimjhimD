@@ -4,7 +4,7 @@
 
 <img src="assets/book-quotes.svg" width="100%" alt="Rotating quotes from Osamu Dazai and Franz Kafka between two candles">
 
-<img src="assets/keyword-puzzle.svg" width="100%" alt="Puzzle pieces: Machine Learning, AI, Deep Learning, Workflows, n8n, Data Science">
+<img src="assets/keywords-line.svg" width="90%" alt="Machine Learning · AI · n8n Workflows · Automation">
 
 <img src="assets/n8n-workflow.svg" width="100%" alt="Animated n8n workflow: webhook trigger, normalize, qualify, enrich and upsert to CRM, or notify the team and send a nurture email">
 
