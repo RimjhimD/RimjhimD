@@ -13,14 +13,6 @@
 
 <img src="assets/sakura-divider.svg" width="60%" alt="---"/>
 
-### ✿ WORKFLOW ✿
-
-<img src="assets/n8n-workflow.svg" width="92%" alt="Animated n8n workflow: webhook trigger, normalize, qualify, enrich and upsert to CRM, or notify the team and send a nurture email"/>
-
-<sub>n8n · webhooks · crm sync · ai automation</sub>
-
-<img src="assets/sakura-divider.svg" width="60%" alt="---"/>
-
 ### ✿ MOOD ✿
 
 <img src="assets/cat-meme.svg" width="25%" alt="Black cat meme with rotating captions"/>
