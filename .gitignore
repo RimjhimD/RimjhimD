@@ -1,1 +1,3 @@
 _preview.html
+.venv/
+__pycache__/
